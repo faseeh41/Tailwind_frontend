@@ -3,7 +3,7 @@
 ## Using Tailwind CSS made easier for everyone!
 
 <h2 align="center">
-  <a href="https://faseehblogs.vercel.app/" target="_blank">faseehblogs.vercel.app</a>
+  <a href="https://faseehblogs.vercel.app/" target="_blank">TAILWIND CSS 🎨</a>
 </h2>
 
 <div align="center">
