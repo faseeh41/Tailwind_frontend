@@ -58,7 +58,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Usage Instructions
 
-To write your own create a markdown file in `_content` folder with the specified format.
+To write your own create a markdown file in `_content` folder with the specified format..
 
 ### Show your support
 
